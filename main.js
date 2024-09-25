@@ -3,7 +3,7 @@ function soma (numero1,numero2){
 }
 console.log(soma(9,7));
 
-function quadrado (numero1){
-   return numero1*numero1;
+function areaquadrado (lado){
+   return lado**2;
 }
-console.log(quadrado(6));
+console.log(areaquadrado(6));
