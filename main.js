@@ -6,3 +6,4 @@ console.log(soma(9,7));
 function quadrado (numero1){
    return numero1*numero1;
 }
+console.log(quadrado(6));
