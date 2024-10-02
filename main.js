@@ -16,4 +16,4 @@
 // }
 // console.log ( media(3,7,9))
 
-let estados=['DF','GO','AL','BA','CE','MA','PB','PE','PI','RN','SE','AC','AP','AM','PA','RO','RR','TO','ES','MG','RJ','SP','PR','SC']
+let estados=['DF','GO','AL','BA','CE','MA','PB','PE','PI','RN','SE','AC','AP','AM','PA','RO','RR','TO','ES','MG','RJ','SP','PR','SC','RS','MS','MG']
